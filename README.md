@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tazidz
 - 👀 I’m interested in Devloping Web Application
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @tazidz at Discord
 
 <!---
